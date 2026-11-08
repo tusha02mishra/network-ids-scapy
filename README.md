@@ -43,7 +43,7 @@ The lab environment allows packet monitoring and security testing between virtua
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/network-ids-scapy.git
+git clone https://github.com/tusha02mishra/network-ids-scapy.git
 cd network-ids-scapy
 ```
 
